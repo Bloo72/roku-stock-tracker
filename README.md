@@ -54,3 +54,10 @@ Roku looks like a legit turnaround story. Four straight massive earnings beats, 
 - [ ] Insider buying
 - [ ] Profitability
 - [ ] Major news
+
+## What Would Break the Turnaround
+
+- [ ] Earnings misses
+- [ ] Profit slipping
+- [ ] Heavy insider selling
+- [ ] Weak news
