@@ -47,3 +47,10 @@ Beat all 4 quarters, massive surprises every time. Went from losing money to pro
 ## Pulse Check
 
 Roku looks like a legit turnaround story. Four straight massive earnings beats, flipped from negative EPS to $0.57, stock at ~$144. Insiders are doing routine vesting sells - not panic dumping. News cycle is bullish: "buy the dip", "breakout setup", "triple-digit EPS growth". This is a streaming platform that figured out how to make money.
+
+## Watchlist
+
+- [ ] Earnings consistency
+- [ ] Insider buying
+- [ ] Profitability
+- [ ] Major news
